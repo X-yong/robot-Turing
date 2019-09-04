@@ -1,0 +1,8 @@
+server:
+  port: 50000
+
+
+#图灵机器人
+robot:
+  apike: 6937388ad799456f8ea66cc2be5ac10c
+  perKey: e3daac1b71334dce
